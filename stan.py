@@ -5,11 +5,10 @@ import tweepy
 
 from datetime import datetime, timedelta,timezone
 
-consumer_key = 'KRDXSSEM1LP2lgBT1gqNKlm8h'
-consumer_secret = 'hpLgyILXSMruIXT1qU8gJ9BdkW1OEdqTBlRc0z8eM9GTIO8gpl'
-
-access_token = '980691074770386946-VWN666WzHwjgT8Z1UQU67TMvW6jFomX'
-access_token_secret = 'otTq5F2qjbCzFC4o93bKAf35U0S4wKEafGJ6nM0i8kQBP'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key , consumer_secret)
 auth.set_access_token(access_token , access_token_secret)
