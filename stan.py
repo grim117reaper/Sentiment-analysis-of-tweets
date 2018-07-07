@@ -74,8 +74,8 @@ for i in geoloc:
     n = n + 1
     print('\n-------------\n--------------\n')
 
-
-for i in range(0,4):
+n = len(geoloc)
+for i in range(0,n):
     b = 'average score of geolocation ' , geoloc[i] , 'is = ' , str(average[i])
     tw.write(str(b))
     tw.write('\n\n')
