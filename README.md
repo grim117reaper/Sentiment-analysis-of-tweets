@@ -1,5 +1,7 @@
 # Sentiment-analysis-of-tweets
 
+>get your token keys by regestering on https://developer.twitter.com/
+
 
 Sentiment analysis of tweets of last 1 hr at locations 
 
