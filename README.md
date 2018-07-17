@@ -19,6 +19,12 @@ each in a radius of 100km of these coordinates
 prerequists
 
 
-#needs a running standford corenlp server on localhost
+needs a running standford corenlp server on localhost
 
-#pycorenlp lib
+pycorenlp lib
+
+
+#update 1 (17-July-2018)
+
+>added a classifier<br />
+>fixed the query bug<br />
