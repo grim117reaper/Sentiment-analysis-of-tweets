@@ -1,0 +1,121 @@
+28.7117544,77.4514209,100km
+--------------------------------------------------------------------------------------------------
+b"0: 'RT @archanaserver : Yay !!': 2 Neutral"
+topic = technology
+
+b"1: '\xf0\x9f\x8e\x8a Most awaited but finally SUMMER OF CODE is started .': 2 Neutral"
+topic = technology
+
+b"2: '\xe2\x9c\xa8 via @ 1mwtt \xe2\x9d\xa4\xef\xb8\x8f WEEK 1 is all about `` Introduction to Python '' \xf0\x9f\x90\x8d T ...': 1 Negative"
+topic = technology
+
+b"0: 'RT @archanaserver : Yay !!': 2 Neutral"
+topic = technology
+
+b"1: '\xf0\x9f\x8e\x8a Most awaited but finally SUMMER OF CODE is started .': 2 Neutral"
+topic = technology
+
+b"2: '\xe2\x9c\xa8 via @ 1mwtt \xe2\x9d\xa4\xef\xb8\x8f WEEK 1 is all about `` Introduction to Python '' \xf0\x9f\x90\x8d T ...': 1 Negative"
+topic = technology
+
+b"0: 'Yay !!': 2 Neutral"
+topic = technology
+
+b"1: '\xf0\x9f\x8e\x8a Most awaited but finally SUMMER OF CODE is started .': 2 Neutral"
+topic = technology
+
+b"2: '\xe2\x9c\xa8 via @ 1mwtt \xe2\x9d\xa4\xef\xb8\x8f WEEK 1 is all about `` Introduction to Python ... https://t.co/unCVOT7YwM': 1 Negative"
+topic = technology
+
+b"0: '@Batole_baaz Data science is good option .': 3 Positive"
+topic = business
+
+b"1: '.': 2 Neutral"
+topic = business
+
+b"2: '` R ' or python for analytics': 2 Neutral"
+topic = business
+
+average sentiment score =  0.0
+
+
+51.4592902,-0.2901918,100km
+--------------------------------------------------------------------------------------------------
+b"0: 'Python has joined Ruby and JavaScript on GitHub 's list of coding languages it scans for security vulnerabilities .': 1 Negative"
+topic = technology
+
+b"1: 'https://t.co/YZ68N85f6p': 2 Neutral"
+topic = technology
+
+b"0: '`` Why is Python so slow ? ''': 1 Negative"
+topic = technology
+
+b"1: 'by @anthonypjshaw https://t.co/Ggzyj8kJAU': 2 Neutral"
+topic = technology
+
+b"0: '@mikeleegraham Beautiful .': 3 Positive"
+topic = entertainment
+
+b"1: 'Although the bubbly shading on the smoke reminds me of Monty Python animation for some reason .': 2 Neutral"
+topic = entertainment
+
+b"0: '@jwsal As Month Python said : `` I wish those bloody bells would stop ringing .': 1 Negative"
+topic = business
+
+b"1: 'Bloody C of E. ''': 2 Neutral"
+topic = business
+
+b"0: 'RT @HunterSoluk : So you 've signed up for another online course -- how do you make the most of it ?': 1 Negative"
+topic = business
+
+b"1: 'https://t.co/JCdwySc0Nk #freeCodeCamp #web ...': 2 Neutral"
+topic = business
+
+b"0: '@jsmcd And remain didnt ... in their 40 year jolly , mass murdering own Tory using government and even obama ... , Mate ... https://t.co/X52eW5hqCI': 1 Negative"
+topic = politics
+
+b"0: 'New #job : Senior DevOps Engineer -- AWS & Python -- Blockchain Co. .': 1 Negative"
+topic = technology
+
+b"1: 'Location : London Salary : 75kpa - 85kpa .': 1 Negative"
+topic = technology
+
+b"2: '.': 2 Neutral"
+topic = technology
+
+b"3: 'https://t.co/w7vSMINwKI #London': 2 Neutral"
+topic = technology
+
+b"0: 'Python for #DataScience : 8 Concepts You May Have Forgotten https://t.co/bosZXDRaY5 https://t.co/2O5FPUGE0F': 2 Neutral"
+topic = technology
+
+b"0: 'RT @historylvrsclub : A censor negotiation letter regarding ` Monty Python and The Holy Grail ' -LRB- 1974 -RRB- .': 1 Negative"
+topic = technology
+
+b"1: 'https://t.co/WAKxxOYbCH': 2 Neutral"
+topic = technology
+
+b"0: 'RT @historylvrsclub : A censor negotiation letter regarding ` Monty Python and The Holy Grail ' -LRB- 1974 -RRB- .': 1 Negative"
+topic = technology
+
+b"1: 'https://t.co/WAKxxOYbCH': 2 Neutral"
+topic = technology
+
+b"0: 'RT @Independent : Brexit is like the python that swallowed an alligator -- it ca n't handle the monster coming down its oesophagus https://t.c\xe2\x80\xa6': 1 Negative"
+topic = technology
+
+average sentiment score =  -0.3333333333333333
+
+
+42.665396,-76.0788017,100km
+--------------------------------------------------------------------------------------------------
+19.0825223,72.7410985,100km
+--------------------------------------------------------------------------------------------------
+average score of geolocation 28.7117544,77.4514209,100km is 0.0
+
+average score of geolocation 51.4592902,-0.2901918,100km is -0.3333333333333333
+
+average score of geolocation 42.665396,-76.0788017,100km is 0
+
+average score of geolocation 19.0825223,72.7410985,100km is 0
+
